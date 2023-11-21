@@ -148,7 +148,7 @@ Bathrooms
 <ion-icon name="square-outline"></ion-icon>
 Square Ft
 
-Solomon Williams
+Wale Williams
 Estate Agents
 
 <ion-icon name="resize-outline"></ion-icon>
@@ -255,10 +255,10 @@ Explore Properties
 
 alt = Homeverse logo
 
-Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
+Take a deep dive and browse homes for sale, original neighborhood photos, resident reviews and local insights to find what is right for you.
 
 <ion-icon name="location-outline"></ion-icon>
-Brooklyn, New York, United States
+Houston, Texas 
 
 <ion-icon name="call-outline"></ion-icon>
 +0123-456789
