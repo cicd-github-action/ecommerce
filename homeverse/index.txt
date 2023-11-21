@@ -4,10 +4,10 @@ Homeverse - Find your dream house
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-solomon.fwilliams@gmail.com
+wale@homeverse.com
 
 <ion-icon name="location-outline"></ion-icon>
-Katy, Texas
+Houston, Texas
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -83,8 +83,9 @@ Exceptional Lifestyle
 <ion-icon name="shield-checkmark-outline"></ion-icon>
 Complete 24/7 Security
 
-"Enimad minim veniam quis nostrud exercitation
-llamco laboris. Lorem ipsum dolor sit amet"
+"Discover a place
+you'll love to live"
+
 
 Our Services
 
@@ -130,7 +131,7 @@ Houston, Texas
 <ion-icon name="film"></ion-icon>
 2
 
-$34,900/Month
+$4,900/Month
 
 New Apartment Nice View
 
@@ -220,7 +221,7 @@ Interior
 The Most Inspiring Interior Design Of 2021
 
 <ion-icon name="calendar"></ion-icon>
-Apr 27, 2022
+Apr 27, 2024
 
 Read More
 
@@ -261,7 +262,7 @@ Take a deep dive and browse homes for sale, original neighborhood photos, reside
 Houston, Texas 
 
 <ion-icon name="call-outline"></ion-icon>
-+0123-456789
++1240-461-3011
 
 <ion-icon name="mail-outline"></ion-icon>
 contact@homeverse.com
@@ -298,7 +299,7 @@ Order tracking
 FAQ
 Contact us
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2024 codewithsadee. All Rights Reserved
 
 
 
