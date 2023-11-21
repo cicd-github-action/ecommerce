@@ -131,7 +131,7 @@ Houston, Texas
 <ion-icon name="film"></ion-icon>
 2
 
-$4,900/Month
+$5,900/Month
 
 New Apartment Nice View
 
