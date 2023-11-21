@@ -12,6 +12,8 @@ you'll love to live
 
 Take a deep dive and browse homes for sale, original neighborhood photos, resident reviews and local insights to find what is right for you.
 
+grep -rl 'Windows' ./ | xargs sed -i 's/Windows/Linux/g'
+
 grep Katy * 
 grep Chicago * 
 grep Brooklyn * 
